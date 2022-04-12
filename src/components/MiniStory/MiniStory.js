@@ -23,6 +23,7 @@ const Image = styled.img`
   aspect-ratio: 220 / 132;
   object-fit: cover;
   border-radius: 4px;
+  overflow: auto;
 `;
 
 const Title = styled.h3`
